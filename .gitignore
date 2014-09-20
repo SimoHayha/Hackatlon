@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ====== #
+# builds #
+# ====== #
+paparazzi/
+build/
+android/
+Assets/Atlases/UI/atlas_ui Data/atlas_ui 1.prefab
+Assets/Atlases/UI/atlas_ui Data/atlas_ui 1.prefab.meta
+
+Assets/Animation/live_06_03_OOGLE_Take 006.fbx
